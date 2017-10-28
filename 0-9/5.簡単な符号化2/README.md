@@ -92,4 +92,6 @@ $ google-chrome-stable binary.doc
 
 ![Flag!](https://raw.githubusercontent.com/caffeinhack/KOSEN-SECCON-2017/master/0-9/5.%E7%B0%A1%E5%8D%98%E3%81%AA%E7%AC%A6%E5%8F%B7%E5%8C%962/flag.png "Flagをゲットだぜ！")
 
+> SCKOSEN{TEXT_BUT_NOT_PLAIN}
+
 以上のようなflagをゲットできました！
