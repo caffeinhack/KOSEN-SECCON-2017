@@ -6,6 +6,6 @@
 なお、スペースはアンダースコア(\_)に置き換えよ。
 
 ## 解き方
-頑張ってググってみた結果、[こんなサイト](http://www.kt.rim.or.jp/~ksk/joke-RFC/rfc2322j.txt)が見つかりました。これのプロトコルの名前のスペースをアンダースコアに置き換えて、SCKOSEN{\___}に沿ってで書くとflagがわかります。
+頑張ってググってみた結果、[こんなサイト](http://www.kt.rim.or.jp/~ksk/joke-RFC/rfc2322j.txt)が見つかりました。これのプロトコルの名前のスペースをアンダースコアに置き換えて、SCKOSEN{\___}に沿ってで書くとflagがわかりました。
 
 > SCKOSEN{Management_of_IP_numbers_by_peg-dhcp}
