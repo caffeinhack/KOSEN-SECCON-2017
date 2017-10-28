@@ -10,7 +10,7 @@
 ## 解き方
 指定のファイルをダウンロードして、stringsコマンドをかけるると以下のように表示されるのですが…
 ```
-$ strings Downloads/a.out
+$ strings a.out
 /lib64/ld-linux-x86-64.so.2
 {e#yd
 libc.so.6
@@ -111,5 +111,5 @@ h1dden_fH
 1ag}
 ```
 
-ということで、明らかに関係なさそうな`H`を取るとFlagゲット！
+ということで、改行を消して明らかに関係なさそうな`H`を取るとFlagゲット！
 > SCKOSEN{h1dden_f1ag}
