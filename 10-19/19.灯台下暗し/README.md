@@ -1,9 +1,9 @@
 # 灯台下暗し
 ## 問題
-> [Description]
+> ### [Description]
 パスワードを奪取せよ。
 
-> [Web Server]
+> ### [Web Server]
 http://score.kosensc2017.tech:40052
 
 ## 解き方
