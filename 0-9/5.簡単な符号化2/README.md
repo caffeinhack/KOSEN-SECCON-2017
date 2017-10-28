@@ -1,14 +1,14 @@
-# サンプル
+# 簡単な符号化2
 ## 問題
 > ### [Description]
 > ファイルからフラグを探せ
 
 > ### [Problem File]
->  https://score.kosensc2017.tech/contents/problem/6/binary
+>  [https://score.kosensc2017.tech/contents/problem/6/binary](https://raw.githubusercontent.com/caffeinhack/KOSEN-SECCON-2017/master/0-9/5.%E7%B0%A1%E5%8D%98%E3%81%AA%E7%AC%A6%E5%8F%B7%E5%8C%962/binary)
 
 ## 解き方
 ### 1.base64をデコードする
-[このサイト](https://base64encode.uic.jp/)でbase64をデコードします。
+[このサイト](https://base64encode.uic.jp/)でbase64のデータをデコードします。
 そうするとhexのデータが手に入ります。
 
 ### 2.デコードしたhexをバイナリファイルにする
