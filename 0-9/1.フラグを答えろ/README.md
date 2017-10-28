@@ -1,10 +1,10 @@
 # フラグを答えろ
 ## 問題
-> ### Description
+> ### [Description]
 > 正しいフラグを書けば正しいかどうかを判定してくれる、便利なアプリを開発した。
 フラグを調べて解答せよ。  
 
-> ### Problem File
+> ### [Problem File]
 >[https://score.kosensc2017.tech/contents/problem/0/a.out](https://raw.githubusercontent.com/caffeinhack/KOSEN-SECCON-2017/master/0-9/1.%E3%83%95%E3%83%A9%E3%82%B0%E3%82%92%E7%AD%94%E3%81%88%E3%82%8D/a.out)
 
 ## 解き方
