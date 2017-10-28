@@ -4,7 +4,7 @@
 > フラグは簡単だ、ファイル名に隠した。
 
 > ### [Problem File]
-> https://score.kosensc2017.tech/contents/problem/1/q
+> [https://score.kosensc2017.tech/contents/problem/1/q](https://github.com/caffeinhack/KOSEN-SECCON-2017/blob/master/0-9/2.%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E3%82%92%E6%8E%A2%E3%81%9B/q)
 
 ## 解き方
 ### 1.ファイルをダウンロードして、そのファイルのあるディレクトリに移動
